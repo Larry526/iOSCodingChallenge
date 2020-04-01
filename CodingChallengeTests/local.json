@@ -1,0 +1,105 @@
+{
+  "stories": [
+    {
+      "id": "212052492",
+      "title": "bill x dipper",
+      "user": {
+        "name": "sinister_shipper",
+        "avatar": "https://a.wattpad.com/useravatar/sinister_shipper.128.384296.jpg",
+        "fullname": "sinister_shipper"
+      },
+      "cover": "https://a.wattpad.com/cover/212052492-256-k551122.jpg"
+    },
+    {
+      "id": "215482289",
+      "title": "BATTLEFIELD [ CAROL DANVERS ]",
+      "user": {
+        "name": "stilesarcastic",
+        "avatar": "https://a.wattpad.com/useravatar/stilesarcastic.128.86633.jpg",
+        "fullname": "𝐉𝐨˚₊·͟͟͟͟͟͟͞͞͞͞͞͞➳"
+      },
+      "cover": "https://a.wattpad.com/cover/215482289-256-k965582.jpg"
+    },
+    {
+      "id": "181820036",
+      "title": "itzy easy lyrics ♡",
+      "user": {
+        "name": "beholdbts",
+        "avatar": "https://a.wattpad.com/useravatar/beholdbts.128.989066.jpg",
+        "fullname": "˗ˏˋ 알리샤  ˎˊ˗"
+      },
+      "cover": "https://a.wattpad.com/cover/181820036-256-k267039.jpg"
+    },
+    {
+      "id": "216534288",
+      "title": "Seven Words",
+      "user": {
+        "name": "Dane_Ailmstriem",
+        "avatar": "https://a.wattpad.com/useravatar/Dane_Ailmstriem.128.139730.jpg",
+        "fullname": "Dane Lyn"
+      },
+      "cover": "https://a.wattpad.com/cover/216534288-256-k59523.jpg"
+    },
+    {
+      "id": "194839233",
+      "title": "Loving Daniel Morales",
+      "user": {
+        "name": "dinafierce",
+        "avatar": "https://a.wattpad.com/useravatar/dinafierce.128.611304.jpg",
+        "fullname": "dina👽"
+      },
+      "cover": "https://a.wattpad.com/cover/194839233-256-k69619.jpg"
+    },
+    {
+      "id": "216570705",
+      "title": "审美艺术家",
+      "user": {
+        "name": "-BRILLIANTA",
+        "avatar": "https://a.wattpad.com/useravatar/-BRILLIANTA.128.768471.jpg",
+        "fullname": "诗"
+      },
+      "cover": "https://a.wattpad.com/cover/216570705-256-k25107.jpg"
+    },
+    {
+      "id": "142462825",
+      "title": "Arestana: The Key Quest",
+      "user": {
+        "name": "ShawnRobinson102",
+        "avatar": "https://a.wattpad.com/useravatar/ShawnRobinson102.128.581981.jpg",
+        "fullname": "Shawn Robinson"
+      },
+      "cover": "https://a.wattpad.com/cover/142462825-256-k875124.jpg"
+    },
+    {
+      "id": "216637577",
+      "title": "Vimax Red 30 Capsule Buy Online In Pakistan~03018888752",
+      "user": {
+        "name": "HinaJan7",
+        "avatar": "https://a.wattpad.com/useravatar/9.128.jpg",
+        "fullname": "Hina Jan"
+      },
+      "cover": "https://a.wattpad.com/cover/216637577-256-k84547.jpg"
+    },
+    {
+      "id": "214219047",
+      "title": "The Lost memory ",
+      "user": {
+        "name": "happycamplover",
+        "avatar": "https://a.wattpad.com/useravatar/happycamplover.128.741923.jpg",
+        "fullname": "The Untamed Girl"
+      },
+      "cover": "https://a.wattpad.com/cover/214219047-256-k701952.jpg"
+    },
+    {
+      "id": "216640815",
+      "title": "Life Stories",
+      "user": {
+        "name": "Solangelo_Percico",
+        "avatar": "https://a.wattpad.com/useravatar/Solangelo_Percico.128.78143.jpg",
+        "fullname": ""
+      },
+      "cover": "https://a.wattpad.com/cover/216640815-256-k87059.jpg"
+    }
+  ],
+  "nextUrl": "https://www.wattpad.com/api/v3/stories?fields=stories%28id%2Ctitle%2Ccover%2Cuser%29&filter=new&limit=10&offset=10"
+}

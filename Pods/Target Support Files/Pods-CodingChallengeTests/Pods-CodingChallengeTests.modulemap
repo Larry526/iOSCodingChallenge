@@ -1,0 +1,6 @@
+module Pods_CodingChallengeTests {
+  umbrella header "Pods-CodingChallengeTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
